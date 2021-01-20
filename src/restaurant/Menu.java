@@ -26,3 +26,4 @@ public class Menu {
     public void setIsUpdated(Date isUpdated) { this.isUpdated = isUpdated; }
 
 }
+
